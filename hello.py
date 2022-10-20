@@ -1,3 +1,3 @@
 var1=20
 var2=30
-print(var1+var2)
+print("The product of two numbers is: ",var1*var2);
